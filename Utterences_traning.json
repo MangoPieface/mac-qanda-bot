@@ -1,0 +1,290 @@
+[
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "What is a primary cancer?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "What does secondary cancer mean?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "What is advanced cancer?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "What do cancer grades mean?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "What are survival rates like for different cancer types?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalSupport",
+        "language": "en-gb",
+        "text": "Are there cancer support groups for South Asian women?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "How does breast cancer treatment work for trans women?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "What's the difference between primary and secondary cancer?",
+        "entities": []
+    },
+    {
+        "intent": "TreatmentAccess",
+        "language": "en-gb",
+        "text": "Can I get treatment if I'm an asylum seeker?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalNeeds",
+        "language": "en-gb",
+        "text": "How can I maintain my cultural hair care during chemotherapy?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "Does advanced cancer mean it's terminal?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "Are cancer support services LGBTQ+ friendly?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "What does grade 2 cancer mean?",
+        "entities": []
+    },
+    {
+        "intent": "Communication",
+        "language": "en-gb",
+        "text": "Can I get information about my cancer in British Sign Language?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "Where can I find reliable survival rate information?",
+        "entities": []
+    },
+    {
+        "intent": "ReligionHealth",
+        "language": "en-gb",
+        "text": "How do I manage cancer treatment during religious festivals?",
+        "entities": []
+    },
+    {
+        "intent": "DisabilitySupport",
+        "language": "en-gb",
+        "text": "What cancer services are accessible for wheelchair users?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Can primary cancer spread to other body parts?",
+        "entities": []
+    },
+    {
+        "intent": "FemaleHealth",
+        "language": "en-gb",
+        "text": "How can I request a female oncologist?",
+        "entities": []
+    },
+    {
+        "intent": "MentalHealth",
+        "language": "en-gb",
+        "text": "Are there counsellors who understand racial trauma and cancer?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "What treatments are available for advanced cancer?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "How do I prove my same-sex partner is my next of kin?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "Does a higher grade mean more serious cancer?",
+        "entities": []
+    },
+    {
+        "intent": "TraditionalMedicine",
+        "language": "en-gb",
+        "text": "Can I use Ayurvedic remedies with NHS treatments?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "How accurate are cancer survival statistics?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalConcerns",
+        "language": "en-gb",
+        "text": "Where can I find wigs for Afro-Caribbean hair textures?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Is secondary cancer the same as metastatic cancer?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "Will cancer treatment affect my hormone therapy?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalConcerns",
+        "language": "en-gb",
+        "text": "Can I get halal meals during hospital stays?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "What does it mean if my cancer is high grade?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalConcerns",
+        "language": "en-gb",
+        "text": "Can I get a Polish interpreter for my appointments?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "How do survival rates vary by cancer stage?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalConcerns",
+        "language": "en-gb",
+        "text": "Are there hospital prayer spaces for Muslim patients?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "Can advanced cancer be cured?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "Where can LGBTQ+ patients find cancer support?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Why do doctors talk about primary tumour location?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalConcerns",
+        "language": "en-gb",
+        "text": "Are there cancer charities that focus on travelling communities?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "Do survival rates account for different ages?",
+        "entities": []
+    },
+    {
+        "intent": "DisabilitySupport",
+        "language": "en-gb",
+        "text": "What cancer screening adjustments exist for disabled people?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "What's the difference between grade and stage?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "How does prostate cancer screening work for trans women?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalSupport",
+        "language": "en-gb",
+        "text": "Are there cancer resources in Urdu?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "What does locally advanced cancer mean?",
+        "entities": []
+    },
+    {
+        "intent": "MentalHealth",
+        "language": "en-gb",
+        "text": "Are there support groups for young Black men with cancer?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Can secondary cancer be treated differently?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "Does cervical screening apply to non-binary people?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "How do survival rates help treatment decisions?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalSupport",
+        "language": "en-gb",
+        "text": "Can I have a faith leader visit during chemotherapy?",
+        "entities": []
+    }
+]

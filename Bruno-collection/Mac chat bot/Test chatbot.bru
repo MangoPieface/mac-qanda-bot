@@ -1,0 +1,44 @@
+meta {
+  name: Test chatbot
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://west-europe-utterance.cognitiveservices.azure.com/language/:analyze-conversations?api-version=2024-11-15-preview
+  body: json
+  auth: bearer
+}
+
+query {
+  api-version: 2024-11-15-preview
+  ~deploymentName: production" -H "Ocp-Apim-Subscription-Key: 3vuMjyfJiOPINvSW2BxerNGbWkX5t0oHFrz2Y4SWUw7X8rT2BU7bJQQJ99BDACi5YpzXJ3w3AAAaACOGmUhA" -H "Content-Type: application/json" -d "
+}
+
+headers {
+  : 
+}
+
+auth:bearer {
+  token: 6077484c93104f00931541148e6ef2ae
+}
+
+body:json {
+  {
+      "kind": "Conversation",
+      "analysisInput": {
+        "conversationItem": {
+          "text": "Can you help me with a wig?",
+          "modality": "text",
+          "participantId": "1",
+          "id": "1"
+        }
+      },
+        "parameters": {
+        "projectName": "chatbot-natural-1",
+        "verbose": true,
+        "deploymentName": "test-trained-1",
+        "stringIndexType": "TextElement_V8"
+      }
+  }
+}

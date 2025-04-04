@@ -1,0 +1,122 @@
+[
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Can primary cancer come back after treatment?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "What tests determine the stage of my cancer?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalSupport",
+        "language": "en-gb",
+        "text": "Are there cancer resources in Punjabi?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "How do I update my gender marker in cancer records?",
+        "entities": []
+    },
+    {
+        "intent": "DisabilitySupport",
+        "language": "en-gb",
+        "text": "Are chemotherapy chairs suitable for larger bodies?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "Why do survival rates vary between hospitals?",
+        "entities": []
+    },
+    {
+        "intent": "CancerGrading",
+        "language": "en-gb",
+        "text": "Can cancer grade change over time?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalNeeds",
+        "language": "en-gb",
+        "text": "How to manage head coverings during radiotherapy?",
+        "entities": []
+    },
+    {
+        "intent": "TreatmentAccess",
+        "language": "en-gb",
+        "text": "What if I can't afford prescription charges?",
+        "entities": []
+    },
+    {
+        "intent": "ReligionHealth",
+        "language": "en-gb",
+        "text": "Can I refuse blood transfusions due to faith?",
+        "entities": []
+    },
+    {
+        "intent": "MentalHealth",
+        "language": "en-gb",
+        "text": "Is cancer anxiety different from regular worry?",
+        "entities": []
+    },
+    {
+        "intent": "TraditionalMedicine",
+        "language": "en-gb",
+        "text": "Are herbal teas safe during treatment?",
+        "entities": []
+    },
+    {
+        "intent": "FemaleHealth",
+        "language": "en-gb",
+        "text": "Can I request a female nurse for personal care?",
+        "entities": []
+    },
+    {
+        "intent": "CancerStaging",
+        "language": "en-gb",
+        "text": "Does early stage cancer have symptoms?",
+        "entities": []
+    },
+    {
+        "intent": "CulturalSupport",
+        "language": "en-gb",
+        "text": "Are there Caribbean diet guides for cancer patients?",
+        "entities": []
+    },
+    {
+        "intent": "LGBTQ",
+        "language": "en-gb",
+        "text": "How to find LGBTQ+ friendly oncologists?",
+        "entities": []
+    },
+    {
+        "intent": "DisabilitySupport",
+        "language": "en-gb",
+        "text": "What if I can't physically manage screening tests?",
+        "entities": []
+    },
+    {
+        "intent": "SurvivalRates",
+        "language": "en-gb",
+        "text": "Do survival rates include quality of life?",
+        "entities": []
+    },
+    {
+        "intent": "CancerBasics",
+        "language": "en-gb",
+        "text": "Why does cancer sometimes spread silently?",
+        "entities": []
+    },
+    {
+        "intent": "Communication",
+        "language": "en-gb",
+        "text": "Can I record consultations with my doctor?",
+        "entities": []
+    }
+]
